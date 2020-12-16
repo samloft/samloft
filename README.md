@@ -1,1 +1,1 @@
-### Hi there 👋 I'm Samuel loft
+### Hi there 👋 I'm Samuel
