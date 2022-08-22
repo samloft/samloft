@@ -9,7 +9,7 @@
 
 #### 🏛️ Frameworks
 
-A list of frameworks that I use.
+A list of frameworks that I use, either as part of my day job or on side projects.
 
 - Laravel
 - Livewire
