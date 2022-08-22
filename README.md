@@ -7,6 +7,17 @@
 - 🌍 My personal website is [devloft.co.uk](https://devloft.co.uk)
 - 📫 Reach me: [sam@devloft.co.uk](mailto:sam@devloft.co.uk)
 
+#### 🏛️ Frameworks
+
+A list of frameworks that I use.
+
+- Laravel
+- Livewire
+- TailwindCSS
+- AlpineJS
+- React
+- Vue
+
 #### ⚡ Github Stats
 
 <p float="left">
