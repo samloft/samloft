@@ -17,6 +17,7 @@ A list of frameworks that I use, either as part of my day job or on side project
 - AlpineJS
 - React
 - Vue
+- NextJS
 
 #### ⚡ Github Stats
 
