@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Samuel, full stack software developer from England.
 
-#### Bio
+#### 🌱 Bio
 
 - 🏢 I'm currently working at [**Scolmore**](https://github.com/scolmore) as Head of Software Development
 - ⚙️ I use daily: `.php`, `.js`
